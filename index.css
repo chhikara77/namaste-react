@@ -36,3 +36,13 @@
     width: 100%;
     height: 50%;
 }
+.shimmer-container {
+    display: flex;
+}
+.shimmer-card {
+    margin: 5px;
+    padding: 5px;
+    width: 250px;
+    height: 320px;
+    border: 1px solid white;
+}
